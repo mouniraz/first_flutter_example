@@ -1,7 +1,4 @@
 # first_flutter_example
-# hello_flutter
-
-Hello Flutter
 
 ## Getting Started
 
